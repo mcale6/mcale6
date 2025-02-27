@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mcale6
-- 👀 I’m interested in Computatioanl Biochemistry, Automatisation, Data Science 
+- 👀 I’m interested in Computational Biochemistry, Automatisation, Data Science 
 - 🌱 I’m currently learning a lot. 
 
 <!---
